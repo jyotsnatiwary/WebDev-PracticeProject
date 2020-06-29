@@ -1,5 +1,5 @@
 # WebDev-PracticeProject
-Coursera mini projects
+submission repo for Coursera mini projects
 
 **Quick links:**
 
